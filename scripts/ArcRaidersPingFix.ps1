@@ -2,8 +2,8 @@
 .VERSION 1.0.0
 .GUID 2c8ab69d-1b58-48da-a4c0-9b3358d7d6d7
 .AUTHOR ARC Raiders Ping Fix contributors
-.PROJECTURI https://github.com/OWNER/arc-raiders-ping-fix
-.LICENSEURI https://github.com/OWNER/arc-raiders-ping-fix/blob/main/LICENSE
+.PROJECTURI https://github.com/satoshinakamoto666666/arc-raiders-ping-fix
+.LICENSEURI https://github.com/satoshinakamoto666666/arc-raiders-ping-fix/blob/main/LICENSE
 #>
 
 <#
